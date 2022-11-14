@@ -1,0 +1,2 @@
+# OOP
+The main point of the program is to simulate a situation of obfuscation of a page that we don't want an external user to be able to scan (for example, a cyber attacker who wants to upload our code), basically every click on the activation button causes the test page to change, every time one of the random variables changes its name throughout the program, The comments change each time to something else, and a line is added that shows a mathematical operation on the variable we changed its name to.
